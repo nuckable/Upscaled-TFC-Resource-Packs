@@ -14,4 +14,4 @@ In order to make full (or likely any) use of these you will have to use [Optifin
 
 Make sure to go through the shader options and see if there is an option to specify the resolution of your resource pack (2xBRZ is 32, 4x is 64 but I haven't made the specular/normal maps for these yet). These are far from perfect as I'm mostly just experimenting, feel free to give constructive criticism, I know full well myself that these are flawed.
 
-Specular maps make surfaces shiny/metal-like (or at least they're supposed to) and normal maps add the bumps. [Here's](https://sonicether.com/seus-documentation/) SEUS' documentation for the way their shaders implement the maps.
+Specular maps make surfaces shiny/metal-like (or at least they're supposed to) and normal maps add the bumps. [Here's](http://web.archive.org/web/20191028174511/https://sonicether.com/seus-documentation/) SEUS' documentation for the way their shaders implement the maps.
